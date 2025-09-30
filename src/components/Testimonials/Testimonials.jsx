@@ -23,7 +23,7 @@ const Testimonials = () => {
             luar biasa. Sangat direkomendasikan!"
           </p>
           <p className="mt-4 font-semibold text-[#fca311] text-lg">
-            - Mark Davis, Project Manager
+            - Mark Dividdd, Project Manager
           </p>
         </div>
 

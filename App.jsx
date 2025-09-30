@@ -4,8 +4,11 @@ import About from "./src/components/about/about.jsx";
 import Skills from "./src/components/Skills/Skills.jsx";
 import Projects from "./src/components/Projectss/Projects.jsx";
 import Testimonials from "./src/components/Testimonials/Testimonials.jsx";
+import Certificates from "./components/Certificates/Certificates.jsx";
 import CTA from "./src/components/CTA/CTA.jsx";
 import Footer from "./src/components/Footer/Footer.jsx";
+
+
 
 
 
@@ -20,6 +23,7 @@ function App() {
       <Skills />
       <Projects />
       <Testimonials />
+      <Certificates />
       <CTA />
       <Footer />
     </>
